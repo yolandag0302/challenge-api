@@ -3,3 +3,10 @@ GET http://localhost/api/flights
 
 ### GET A FLIGHT BY ID
 GET http://localhost/api/flights/8
+
+### GET HOTELS
+GET http://localhost/api/hotels
+
+### GET A HOTEL BY ID
+GET http://localhost/api/hotels/1
+
