@@ -1,2 +1,5 @@
 # GET FLIGHTS
 GET http://localhost/api/flights
+
+### GET A FLIGHT BY ID
+GET http://localhost/api/flights/8
